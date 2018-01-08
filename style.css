@@ -1,0 +1,115 @@
+/*ID'S - IN ALPHABETICAL ORDER*/
+#about {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hello_my_name_is_sticker.svg/2000px-Hello_my_name_is_sticker.svg.png);
+  height:900px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#contact {
+  background: url(https://img-new.cgtrader.com/items/150989/3d217136a4/rotary-telephone-fetap-791-3d-model-max-obj.jpg);
+  height:900px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#home {
+  background: url(https://c.pxhere.com/photos/f6/3e/apple_coffee_cup_desk_email_hands_iphone_laptop-913476.jpg!d);
+  height:828px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#portfolio {
+  background: url(https://www.kennethcole.com/dw/image/v2/AAVO_PRD/on/demandware.static/-/Sites-kennethcole-master-catalog/default/dwd8bf9f7e/images/51731_200_MAIN.jpg?sw=1999&sh=909&sm=cut);
+  height:909px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#soc {
+    position: relative;
+    top: 700px;
+}
+
+/*CLASSES - IN ALPHABETICAL ORDER*/
+.abouttext {
+  position: relative;
+  top: 300px;
+  left: 400px;
+  width: 60%;
+}
+.centered {
+    position: absolute;
+    top: 150px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.face {
+  position: relative;
+  top: 400px;
+  left: 50px;
+}
+
+.mybtn {
+  color: #3366CC;
+  background-color: #323232;
+}
+
+.mybtn:active {
+  color: #99ccff;
+}
+
+.mybtn:focus {
+  color: #99ccff;
+}
+
+.mybtn:hover {
+  color: #ffffff;
+}
+
+.mybtn:link {
+  color: #99ccff;
+}
+
+.mybtn:visited {
+  color: #99ccff;
+}
+
+.round {
+  border-style: solid;
+  border-width: 8px;
+}
+
+.spacerOne {
+  height: 75px;
+  align-text: center;
+}
+
+.thumbnail {
+  max-height: 150px;
+  max-width: 200px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #000000;
+}
+
+/*TEXT STYLES - IN ALPHABETICAL ORDER*/
+h1 {
+  font-family: Helvetica, Sans-Serif;
+  font-size: 104px;
+  	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+h2 {
+  text-align: center;
+}
